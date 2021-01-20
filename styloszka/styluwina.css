@@ -1,0 +1,9 @@
+body {
+    background: #151525;
+    height: 100vh;
+    font: 400 16px 'Titillium+Web', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
